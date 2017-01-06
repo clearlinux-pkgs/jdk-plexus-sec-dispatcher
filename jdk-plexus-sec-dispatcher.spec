@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-sec-dispatcher
 Version  : 9ea2038
-Release  : 1
+Release  : 2
 URL      : https://github.com/codehaus-plexus/plexus-sec-dispatcher/archive/9ea2038.tar.gz
 Source0  : https://github.com/codehaus-plexus/plexus-sec-dispatcher/archive/9ea2038.tar.gz
 Summary  : No detailed summary available
